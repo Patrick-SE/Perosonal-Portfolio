@@ -4,7 +4,7 @@ A responsive personal portfolio website showcasing my skills, projects, and cont
 
 ## 🌐 Live Demo
 
-[View Live Site](https://yourusername.github.io/portfolio)
+[View Live Site](https://patrick-se.github.io/Perosonal-Portfolio/)
 
 ## 📸 Screenshot
 
